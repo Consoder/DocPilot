@@ -1,0 +1,10 @@
+[
+  {"question":"How often should production API keys be rotated?", "expected_document":"security_handbook.md"},
+  {"question":"When can an annual subscription customer request a refund?", "expected_document":"customer_support.md"},
+  {"question":"What percentage of traffic should a canary deployment receive?", "expected_document":"platform_runbook.md"},
+  {"question":"How many paid vacation days do employees receive?", "expected_document":"hr_handbook.md"},
+  {"question":"What is the response target for enterprise priority-one incidents?", "expected_document":"customer_support.md"},
+  {"question":"What metrics should engineers check when latency rises?", "expected_document":"platform_runbook.md"},
+  {"question":"Where must production secrets be stored?", "expected_document":"security_handbook.md"},
+  {"question":"What is the annual learning stipend?", "expected_document":"hr_handbook.md"}
+]
